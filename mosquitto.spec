@@ -18,6 +18,7 @@ BuildRequires:	pkgconfig(libcares)
 BuildRequires:	pkgconfig(openssl)
 BuildRequires:	pkgconfig(systemd)
 BuildRequires:	xsltproc
+BuildRequires:	docbook-style-xsl
 
 %description
 Eclipse Mosquitto is an open source (EPL/EDL licensed) message broker that
