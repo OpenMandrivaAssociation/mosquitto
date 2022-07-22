@@ -7,7 +7,7 @@
 
 Summary:	MQTT protocol message broker
 Name:		mosquitto
-Version:	2.0.10
+Version:	2.0.14
 Release:	1
 Group:		System/Libraries
 License:	EPL/EDL	
